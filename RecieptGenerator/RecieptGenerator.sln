@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecieptGenerator", "RecieptGenerator\RecieptGenerator.csproj", "{F4DEBA55-5680-42AA-819A-C31E813918D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecieptGenerator.Tests", "RecieptGenerator.Tests\RecieptGenerator.Tests.csproj", "{05C675D8-CD2A-4253-B302-3861453DDE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DEBA55-5680-42AA-819A-C31E813918D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DEBA55-5680-42AA-819A-C31E813918D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DEBA55-5680-42AA-819A-C31E813918D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DEBA55-5680-42AA-819A-C31E813918D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C675D8-CD2A-4253-B302-3861453DDE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C675D8-CD2A-4253-B302-3861453DDE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C675D8-CD2A-4253-B302-3861453DDE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C675D8-CD2A-4253-B302-3861453DDE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
